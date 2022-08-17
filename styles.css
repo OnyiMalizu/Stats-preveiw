@@ -1,0 +1,55 @@
+img{
+	border-radius:0 10px 10px 0;
+	filter:hsl(277, 64%, 61%) ;
+}
+.container{
+	display: flex;
+	margin: 100px 50px 50px 100px;
+}
+.container-text{
+	border-radius: 10px 0 0 10px;
+	background-color: hsl(244, 38%, 16%);
+	padding: 10px;
+	flex-basis: 50%;
+}
+body{
+	background-color: hsl(233, 47%, 7%);
+}
+.about{
+	display:flex;
+	column-gap: 20px;
+}
+.text{
+	color: hsl(277, 64%, 61%);
+}
+h1{
+	color: hsl(0, 0%, 100%);
+	font-family: 'Lexend Deca', sans-serif;
+}
+p{
+	color: hsla(0, 0%, 100%, 0.75);
+	font-family: 'Inter', sans-serif;
+}
+h2{
+	color: hsl(0, 0%, 100%);
+	font-family: 'Lexend Deca', sans-serif;
+}
+.overlay{
+	background-color: rgba(181, 47, 168, 0.462);
+	position:absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.image{
+	overflow: visible;
+	position: relative;
+}
+
+
+
+
+
+
+
